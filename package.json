@@ -1,0 +1,28 @@
+{ "author": "Paul Serby <paul@serby.net>"
+, "name": "validity-date-before-property"
+, "description": "Validity style validator to ensure a property has a date before another date property"
+, "version": "0.0.1"
+, "tags": []
+, "repository":
+  { "type": "git"
+  , "url": "git@github.com:serby/validity-date-before-property"
+  }
+, "publishConfig": {
+    "registry":"http://npm.clockte.ch"
+  }
+, "main": ""
+, "scripts":
+  { "test": "make test"
+  , "prepublish": "make qa && npm prune"
+  }
+, "engines":
+  { "node": ">=0.8"
+  }
+, "dependencies":
+  {
+  }
+, "devDependencies":
+  { "mocha": "*"
+  , "should": "*"
+  }
+}
