@@ -2,20 +2,20 @@
 , "name": "validity-date-before-property"
 , "description": "Validity style validator to ensure a property has a date before another date property"
 , "version": "0.0.1"
-, "tags": []
+, "tags": ["validation", "date"]
 , "repository":
   { "type": "git"
   , "url": "git@github.com:serby/validity-date-before-property"
   }
 , "publishConfig": {
-    "registry":"http://npm.clockte.ch"
+    "registry":"http://registry.npm.org"
   }
 , "main": "date-before-property"
 , "scripts":
   { "test": "make test"
   }
 , "engines":
-  { "node": ">=0.8"
+  { "node": ">=0.10"
   }
 , "dependencies":
   {
