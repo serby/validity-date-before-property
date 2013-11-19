@@ -8,7 +8,7 @@
   , "url": "git@github.com:serby/validity-date-before-property"
   }
 , "publishConfig": {
-    "registry":"http://registry.npm.org"
+    "registry":"http://registry.npmjs.org"
   }
 , "main": "date-before-property"
 , "scripts":
