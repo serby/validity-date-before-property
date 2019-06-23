@@ -1,6 +1,6 @@
 # validity-date-before-property
 
-[![build status](https://secure.travis-ci.org/serby/validity-date-before-property.png)](http://travis-ci.org/serby/validity-date-before-property)
+[![build status](https://secure.travis-ci.org/serby/validity-date-before-property.png)](http://travis-ci.org/serby/validity-date-before-property) [![Greenkeeper badge](https://badges.greenkeeper.io/serby/validity-date-before-property.svg)](https://greenkeeper.io/)
 
 Validity style validator to ensure a property has a date before another date property.
 
